@@ -1,3 +1,4 @@
+--https://wiki.postgresql.org/wiki/Index_Maintenance
 --verificar indices, tamanhos e usos
 SELECT
     t.tablename,
