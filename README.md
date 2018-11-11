@@ -1,2 +1,2 @@
-# postgres
-Scripts úteis para administração do Postgres
+# Postgres Admin Scripts
+Scripts úteis para administração do Postgres.
